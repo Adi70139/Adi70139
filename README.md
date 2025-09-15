@@ -1,6 +1,6 @@
 # Hello 👋, I'm Aditya
  
-🚀 **A passionate Web Developer and Open-Source Contributor**  
+🚀 **A passionate Developer and Open-Source Contributor**  
 🌱 Enthusiastic about Development, and All Tech Related Fields.
  
 ---
