@@ -6,7 +6,7 @@
 ---
  
 ### 🌟 About Me:
-- 🔭 Currently working on **Open-Source Projects and Developments**.
+- 🔭 Currently working as Software Engineer Trainee at Azentio and **Open-Source Projects and Developments**.
 -  🌱 I’m currently learning **[Skills/Technologies]**
 - 💬 Ask me about **Any Development Skills**.
 - 📫 Reach me via email: **[vardhan70139@gmail.com ](mailto:vardhan70139@gmail.com)**.
