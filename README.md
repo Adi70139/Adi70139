@@ -10,7 +10,7 @@
 -  🌱 I’m currently learning **[Skills/Technologies]**
 - 💬 Ask me about **Any Development Skills**.
 - 📫 Reach me via email: **[vardhan70139@gmail.com ](mailto:vardhan70139@gmail.com)**.
-- 🌐 Portfolio: **[Portfolio ](https://portfolio-gyxg.onrender.com)**.
+- 🌐 Profile: **[Portfolio ](https://portfolio-gyxg.onrender.com)**.
  
 ---
  
